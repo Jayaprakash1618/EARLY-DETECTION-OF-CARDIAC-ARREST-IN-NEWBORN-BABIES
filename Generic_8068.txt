@@ -1,0 +1,13 @@
+Command to start the project: python infant1.py
+
+BirthWeight - WeightTooLow, LowWeight, NormalWeight
+FamilyHistory - AboveTwoCases,ZeroToTwoCases,NoCases
+PretermBirth - 4orMoreWeeksEarlier, 2To4weeksEarlier,NotaPreTerm
+HeartRate - RapidHeartRate,HighHeartRate,NormalHeartRate
+BreathingDifficulty - HighBreathingDifficulty,BreathingDifficulty,NoBreathingDifficulty
+SkinTinge - Bluish, LightBluish,NotBluish
+Responsiveness - UnResponsive,SemiResponsive,Responsive
+Movement - Diminished,Decreased,NormalMovement
+DeliveryType - C-Section,DifficultDelivery,NormalDelivery
+MothersBPHistory - VeryHighBP, HighBP,BPInRange
+CardiacArrestChance - High, Medium, Low
